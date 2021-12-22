@@ -1,0 +1,23 @@
+Barracks	1 2 3 4	Buildings	175W	0:50	1200	5	Chinese Franks Japanese Mongols Persians Saracens
+Farm	1 2 3 4	Buildings	60W	0:15	480	0	Chinese Franks Japanese Mongols Persians Saracens
+House	1 2 3 4	Buildings	30W	0:25	900	1	Chinese Franks Japanese Mongols Persians Saracens
+Lumber Camp	1 2 3 4	Buildings	100W	0:35	1000	5	Chinese Franks Japanese Mongols Persians Saracens
+Mill	1 2 3 4	Buildings	100W	0:35	1000	5	Chinese Franks Japanese Mongols Persians Saracens
+Mining Camp	1 2 3 4	Buildings	100W	0:35	1000	5	Chinese Franks Japanese Mongols Persians Saracens
+Archery Range	2 3 4	Buildings	175W	0:50	1500	5	Chinese Franks Japanese Mongols Persians Saracens
+Blacksmith	2 3 4	Buildings	150W	0:40	2100	5	Chinese Franks Japanese Mongols Persians Saracens
+Market	2 3 4	Buildings	175W	1:00	2100	4	Chinese Franks Japanese Mongols Persians Saracens
+Stable	2 3 4	Buildings	175W	0:50	1500	5	Chinese Franks Japanese Mongols Persians Saracens
+Castle	3 4	Buildings	650S	3:20	4800	10	Chinese Franks Japanese Mongols Persians Saracens
+Monastery	3 4	Buildings	175W	0:40	2100	5	Chinese Franks Japanese Mongols Persians Saracens
+University	3 4	Buildings	200W	1:00	2100	4	Chinese Franks Japanese Mongols Persians Saracens
+Wonder	4	Buildings	1000W 1000S 1000G	58:23	4800	6	Chinese Franks Japanese Mongols Persians Saracens
+Outpost	1	Defensive	25W 10S	0:15	500	6	Chinese Franks Japanese Mongols Persians Saracens
+Watch Tower	2	Defensive	25W 125S	1:20	1020	10	Chinese Franks Japanese Mongols Persians Saracens
+Guard Tower	3	Defensive	25W 125S	1:20	1500	10	Chinese Franks Japanese Mongols Persians Saracens
+Keep	4	Defensive	25W 125S	1:20	2250	10	Chinese Japanese Saracens
+Bombard Tower	4	Defensive	100G 125S	1:20	2220	10	Chinese
+Palisade Wall	1 2 3 4	Defensive	2W	0:05	250	2	Chinese Franks Japanese Mongols Persians Saracens
+Stone Wall	2	Defensive	5S	0:08	1800	2	Chinese Franks Japanese Mongols Persians Saracens
+Fortified Wall	3 4	Defensive	5S	0:08	3000	2	Chinese Franks Japanese Mongols Saracens
+Gate	2 3 4	Defensive	30S	0:70	2750	6	Chinese Franks Japanese Mongols Persians Saracens

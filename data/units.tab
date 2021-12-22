@@ -1,0 +1,31 @@
+Hussar	4	Stable	80F	0:30	75	10	Mongols Persians Saracens
+Cavalry Archer	3 4	Archery Range	40W 70G	0:34	50	5	Chinese Franks Japanese Mongols Persians Saracens
+Militia	1 2 3 4	Barracks	20G 60F	0:21	40	4	Chinese Franks Japanese Mongols Persians Saracens
+Long Swordsman	3 4	Barracks	20G 60F	0:21	55	4	Chinese Franks Japanese Mongols Persians Saracens
+Scout Cavalry	2 3 4	Stable	80F	0:30	45	6	Chinese Franks Japanese Mongols Persians Saracens
+Cavalier	4	Stable	75G 60F	0:30	120	4	Chinese Franks Japanese Mongols Persians
+Samurai	3 4	Unique	30G 60F	0:09	60	4	Japanese
+Two-handed Swordsman	4	Barracks	20G 60F	0:21	60	5	Chinese Franks Japanese Mongols Saracens
+Chu Ko Nu	3 4	Castle	40W 35G	0:19	45	6	Chinese
+Trade Cart	2 3 4	Market	100W 50G	0:50	70	7	Chinese Franks Japanese Mongols Persians Saracens
+Mameluke	3 4	Castle	85G 55F	0:23	65	5	Saracens
+Arbalest	4	Archery Range	25W 45G	0:27	40	7	Chinese Japanese Mongols Saracens
+Heavy Cavalry Archer	3 4	Archery Range	40W 70G	0:27	60	6	Chinese Franks Japanese Mongols Persians Saracens
+Camel	3 4	Stable	60G 55F	0:22	100	4	Chinese Mongols Persians Saracens
+Hand Cannoneer	4	Archery Range	50G 45F	0:34	35	9	Franks Japanese Persians Saracens
+Knight	3 4	Stable	75G 60F	0:30	100	4	Chinese Franks Japanese Mongols Persians Saracens
+Throwing Axeman	3 4	Castle	25G 55F	0:17	50	5	Franks
+Pikeman	3 4	Barracks	25W 35F	0:22	55	4	Chinese Franks Japanese Mongols Persians Saracens
+Light Cavalry	3 4	Stable	80F	0:30	60	8	Chinese Franks Japanese Mongols Persians Saracens
+War Elephant	3 4	Castle	75G 200F	0:31	450	4	Persians
+Crossbowman	3 4	Archery Range	25W 45G	0:27	35	7	Chinese Franks Japanese Mongols Persians Saracens
+Spearman	2 3 4	Barracks	25W 35F	0:22	45	4	Chinese Franks Japanese Mongols Persians Saracens
+Skirmisher	2 3 4	Archery Range	35W 25F	0:22	30	6	Chinese Franks Japanese Mongols Persians Saracens
+Monk	3 4	Monastery	100G	0:51	30	11	Chinese Franks Japanese Mongols Persians Saracens
+Heavy Camel	4	Stable	60G 55F	0:22	120	5	Chinese Mongols Persians Saracens
+Mangudai	3 4	Castle	55W 65G	0:26	60	6	Mongols
+Archer	2 3 4	Archery Range	25W 45G	0:35	30	6	Chinese Franks Japanese Mongols Persians Saracens
+Man-at-arms	2 3 4	Barracks	20G 60F	0:21	45	4	Chinese Franks Japanese Mongols Persians Saracens
+Halberdier	4	Barracks	25W 35F	0:22	60	4	Chinese Franks Japanese Persians
+Paladin	4	Stable	75G 60F	0:30	160	5	Franks Persians
+Champion	4	Barracks	20G 60F	0:21	70	5	Chinese Franks Japanese Mongols Saracens
